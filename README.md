@@ -17,6 +17,7 @@ Hi! I'm **Reetik Rajan** and I made this repository for the programs written in 
  2. Select **Download ZIP** option.
  3. Extract the zip file using *7zip* or *WinRAR*.
  4. Copy all **<*filename*>.c** to `C:\TURBOC3\BIN`.
+ > Using any other IDE or OS, *4th* step will be change accordingly.
 
 ## Presence
 ![](https://image.flaticon.com/icons/png/16/93/93618.png) Website - [https://www.technofevers.com/reetik](http://www.technofevers.com/reetik) <br>
