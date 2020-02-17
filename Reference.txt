@@ -15,3 +15,27 @@ PTRN03.C
   ***
   **
   *
+
+PTRN04.C
+     *
+    **
+   ***
+  ****
+
+PTRN05.C (using if-else)
+     *
+    **
+   ***
+  ****
+
+PTRN06.C
+  ****
+   ***
+    **
+     *
+
+PTRN07.C (using if-else)
+  ****
+   ***
+    **
+     *
