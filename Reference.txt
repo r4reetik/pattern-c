@@ -39,3 +39,27 @@ PTRN07.C (using if-else)
    ***
     **
      *
+
+PTRN08.C
+     *
+    ***
+   *****
+  *******
+
+PTRN09.C (using if-else)
+     *
+    ***
+   *****
+  *******
+
+PTRN10.C
+  *******
+   *****
+    ***
+     *
+
+PTRN11.C (using if-else)
+  *******
+   *****
+    ***
+     *
